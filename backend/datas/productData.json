@@ -1,0 +1,58 @@
+[
+    {
+        "name":"oppo",
+    "price":30000,
+    "description":"oppo phone is a best mobile to use",
+    "rating":5.5,
+    "images":[
+        {
+            "image":"/images"
+        }
+    ],
+    "category":"mobile",
+    "seller":"flifkart",
+    "stock":5
+    },
+    {
+        "name":"oppo",
+    "price":30000,
+    "description":"oppo phone is a best mobile to use",
+    "rating":5.5,
+    "images":[
+        {
+            "image":"/images"
+        }
+    ],
+    "category":"mobile",
+    "seller":"flifkart",
+    "stock":5
+    },
+    {
+        "name":"oppo",
+    "price":30000,
+    "description":"oppo phone is a best mobile to use",
+    "rating":5.5,
+    "images":[
+        {
+            "image":"/images"
+        }
+    ],
+    "category":"mobile",
+    "seller":"flifkart",
+    "stock":5
+    },
+    {
+        "name":"oppo",
+    "price":30000,
+    "description":"oppo phone is a best mobile to use",
+    "rating":5.5,
+    "images":[
+        {
+            "image":"/images"
+        }
+    ],
+    "category":"mobile",
+    "seller":"flifkart",
+    "stock":5
+    }
+]
